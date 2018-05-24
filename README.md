@@ -1,0 +1,2 @@
+# SmokeConsole
+Smoke Console Application
